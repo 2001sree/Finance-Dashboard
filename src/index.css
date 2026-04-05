@@ -1,0 +1,16 @@
+/* @import "tailwindcss"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* color-scheme hints native form controls / scrollbars to match light/dark */
+:root {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+/* Remove default focus outline but keep a11y via Tailwind focus-visible rings on interactive elements */
+*:focus-visible {
+  outline: none;
+}
