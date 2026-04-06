@@ -10,8 +10,8 @@ import React, {
   useMemo,
   useState,
 } from 'react'
-import { seedTransactions } from '../data/seedTransactions.js'
-import { STORAGE_KEYS, loadJson, saveJson } from '../utils/storage'
+import { seedTransactions } from 'src/data/seedTransactions.js'
+import { STORAGE_KEYS, loadJson, saveJson } from 'src/utils/storage.js'
 
 /** Default role: Viewer cannot edit transactions (requirement #5). */
 const initialRole = 'viewer'
