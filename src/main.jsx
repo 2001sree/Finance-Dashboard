@@ -10,6 +10,7 @@ import ReactDOM from 'react-dom/client'
 // Root component that composes layout + routes between Dashboard / Transactions / Insights.
 import App from './App.jsx'
 // Global Tailwind layers + small polish (focus, color-scheme).
+import './style.css'
 import './index.css'
 // Context provider wraps the tree so any component can call useFinance().
 import { FinanceProvider } from './context/FinanceContext.jsx'
