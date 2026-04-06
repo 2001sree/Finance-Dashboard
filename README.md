@@ -27,7 +27,7 @@ A modern **Finance Dashboard** built using React. It helps users track income, e
 ##  Screenshots
 
 ### Dashboard View
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png) 
  HEAD
 ### Transaction View
 ![Add Transaction](./screenshots/Transactions.png)
@@ -39,6 +39,14 @@ A modern **Finance Dashboard** built using React. It helps users track income, e
 ![Add Transaction](./screenshots/add.png)
  5262fab (Update README.md)
 
+
+### Transaction view
+![Add Transaction](./screenshots/Transactions.png)
+
+### Insights view
+![Add Transaction](./screenshots/insights.png)
+
+ ca06b57b88a6a0dfab88649854e35fad7b24ff13
 ---
 
 ##  Installation
